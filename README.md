@@ -1,0 +1,5 @@
+- [https://www.reddit.com/user/Dapper-Department-96/](https://www.reddit.com/user/Dapper-Department-96/)
+- [https://medium.com/@NormanStreet](https://medium.com/@NormanStreet)
+- [https://www.youtube.com/channel/UCbpxvfYWEw9_JOLKwpwnsFg](https://www.youtube.com/channel/UCbpxvfYWEw9_JOLKwpwnsFg)
+- [https://x.com/NStreet57313](https://x.com/NStreet57313)
+- [https://yo.fan/normanstreets](https://yo.fan/normanstreets)
