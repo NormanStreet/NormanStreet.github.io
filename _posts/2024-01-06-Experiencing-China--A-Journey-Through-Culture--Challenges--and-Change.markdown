@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Experiencing China: A Journey Through Culture, Challenges, and Change"
-date:   2024-09-06 17:26:30 +0000
+date:   2024-01-06 17:26:30 +0000
 categories: China
 excerpt_image: http://www.chinasprout.com/store/media/BLL035L01.jpg
+image: http://www.chinasprout.com/store/media/BLL035L01.jpg
 ---
 
 Traveling and studying in China has been one of the most transformative experiences of my life. From the bustling streets of Beijing to the serene landscapes of rural China, each moment has been filled with learning, growth, and unforgettable adventures. In this blog post, I will share my journey, highlighting the unique aspects of Chinese culture, the challenges I faced, and the remarkable changes I witnessed over the years. My experiences have not only deepened my appreciation for this vibrant country but also reshaped my understanding of the world.
