@@ -2,8 +2,9 @@
 layout: post
 title: "The Safety of Life in China: A Foreigner`s Perspective"
 date:   2024-09-11 15:37:02 +0000
-categories: Gaming
+categories: China
 excerpt_image: https://i.ytimg.com/vi/OBjN5vAB2LA/maxresdefault.jpg
+image: https://i.ytimg.com/vi/OBjN5vAB2LA/maxresdefault.jpg
 ---
 
 Living in China for over a decade, I have experienced firsthand the safety and security of its cities. Unlike many places worldwide, my interactions on the streets have been overwhelmingly positive. This post explores the various dimensions of safety in China and how they compare to other countries.
