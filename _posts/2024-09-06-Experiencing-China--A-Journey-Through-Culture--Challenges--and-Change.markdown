@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Experiencing China: A Journey Through Culture, Challenges, and Change"
-date:   2024-10-06 17:26:30 +0000
-categories: Gaming
+date:   2024-09-06 17:26:30 +0000
+categories: China
 excerpt_image: http://www.chinasprout.com/store/media/BLL035L01.jpg
 ---
 
