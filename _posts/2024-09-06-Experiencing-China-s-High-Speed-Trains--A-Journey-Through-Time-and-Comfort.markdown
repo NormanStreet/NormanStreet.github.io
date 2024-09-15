@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Experiencing China`s High-Speed Trains: A Journey Through Time and Comfort"
-date:   2024-09-16 14:29:45 +0000
+date:   2024-09-06 14:29:45 +0000
 categories: Gaming
 excerpt_image: https://news.cgtn.com/news/2020-12-23/Live-China-s-Xi-an-Yinchuan-high-speed-railway-begins-service-WsnXn3oVlS/img/af5b2b08ad304f94a3a50f23525e5a14/af5b2b08ad304f94a3a50f23525e5a14-1280.jpeg
 ---
