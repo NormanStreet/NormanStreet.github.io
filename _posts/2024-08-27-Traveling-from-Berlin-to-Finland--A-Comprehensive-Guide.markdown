@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Traveling from Berlin to Finland: A Comprehensive Guide"
-date:   2024-10-27 17:19:37 +0000
-categories: Gaming
+date:   2024-08-27 17:19:37 +0000
+categories: Finland
 excerpt_image: https://img.affordabletours.com/AffordableTours/Products/Maps/111164__202010261557__.gif
 ---
 
