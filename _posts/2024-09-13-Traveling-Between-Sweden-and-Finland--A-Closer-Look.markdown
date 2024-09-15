@@ -2,7 +2,7 @@
 layout: post
 title: "Traveling Between Sweden and Finland: A Closer Look"
 date:   2024-09-13 22:23:22 +0000
-categories: Gaming
+categories: Travel
 excerpt_image: https://thumbs.dreamstime.com/b/sweden-finland-map-zoom-world-vector-illustration-stock-265710659.jpg
 ---
 
